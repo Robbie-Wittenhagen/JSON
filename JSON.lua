@@ -11,7 +11,7 @@
 ]]-- **/
 
 --[[ /**  Package Info
-      * @package_name: JSON
+      * @name: JSON
       * @author: Robbie-Wittenhagen
       * @description: A reworked pure lua package to encode and decode JSON data.
       * @version: 0.0.2
